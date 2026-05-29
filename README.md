@@ -1,2 +1,2 @@
 # Wamengo
-Wamengo for ö'lari language!
+Wamengo / Wamego for ö'lari language!

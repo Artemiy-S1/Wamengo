@@ -1,2 +1,2 @@
 # Wamengo
-Wamengo for Эл'ари language!
+Wamengo for ö'lari language!

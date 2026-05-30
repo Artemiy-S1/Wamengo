@@ -1,1 +1,1 @@
-This Wamengo for Ö'lari!
+Wamengo for Ö'lari!
